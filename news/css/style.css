@@ -107,10 +107,9 @@ video {
    margin-bottom: 40px;
 }
 .footer__text {
-   font-size: 18px;
+   font-size: 10px;
    color: black;
    height: 77px;
-   padding: 10px;
 }
 .footer__link {
    text-decoration: none;
